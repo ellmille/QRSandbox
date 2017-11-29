@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">scannerbox</string>
+    <string name="read_barcode">Read Barcode</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="re_scan">Re-Scan</string>
+    <string name="barcode_value">Barcode Value</string>
+    <string name="textview">TextView</string>
+</resources>
